@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: github.biocat.top/sitemap.xml
