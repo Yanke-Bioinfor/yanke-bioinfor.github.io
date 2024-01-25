@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curtis&#39; Home Page</title>
-    <link>yanke-bioinfor.github.io/</link>
+    <link>https://yanke-bioinfor.github.io/</link>
     <description>Recent content on Curtis&#39; Home Page</description>
     <image>
       <title>Curtis&#39; Home Page</title>
-      <url>yanke-bioinfor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>yanke-bioinfor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://yanke-bioinfor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yanke-bioinfor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="yanke-bioinfor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yanke-bioinfor.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>yanke-bioinfor.github.io/page/</link>
+      <link>https://yanke-bioinfor.github.io/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>yanke-bioinfor.github.io/page/</guid>
+      <guid>https://yanke-bioinfor.github.io/page/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>

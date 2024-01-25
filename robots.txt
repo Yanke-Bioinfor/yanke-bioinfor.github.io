@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: yanke-bioinfor.github.io/sitemap.xml
+Sitemap: https://yanke-bioinfor.github.io/sitemap.xml
