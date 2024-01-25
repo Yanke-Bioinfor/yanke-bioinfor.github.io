@@ -4,11 +4,6 @@
     <title>first on Curtis&#39; Home Page</title>
     <link>https://yanke-bioinfor.github.io/tags/first/</link>
     <description>Recent content in first on Curtis&#39; Home Page</description>
-    <image>
-      <title>Curtis&#39; Home Page</title>
-      <url>https://yanke-bioinfor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://yanke-bioinfor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
@@ -18,7 +13,7 @@
       <link>https://yanke-bioinfor.github.io/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       <guid>https://yanke-bioinfor.github.io/page/</guid>
-      <description>Desc Text.</description>
+      <description></description>
     </item>
   </channel>
 </rss>
