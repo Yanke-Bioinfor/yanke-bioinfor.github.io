@@ -31,5 +31,12 @@ Lists Unordered Item 1 Item 2 Item 2a Item 2b Ordered Item 1 Item 2 Item 3 Item 
       <guid>https://yanke-bioinfor.github.io/test_page/</guid>
       <description>描述文字</description>
     </item>
+    <item>
+      <title>你好世界</title>
+      <link>https://yanke-bioinfor.github.io/test_page2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yanke-bioinfor.github.io/test_page2/</guid>
+      <description>描述文字</description>
+    </item>
   </channel>
 </rss>
