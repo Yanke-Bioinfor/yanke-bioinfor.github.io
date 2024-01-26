@@ -40,9 +40,9 @@ Lists Unordered Item 1 Item 2 Item 2a Item 2b Ordered Item 1 Item 2 Item 3 Item 
     </item>
     <item>
       <title>创站记录</title>
-      <link>https://yanke-bioinfor.github.io/posts/notion/build_web/</link>
+      <link>https://yanke-bioinfor.github.io/notion/build_web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/posts/notion/build_web/</guid>
+      <guid>https://yanke-bioinfor.github.io/notion/build_web/</guid>
       <description>初见·Notion 从19年开始使用Notion，后来因为疫情缘故，组织了一些抗疫相关页面，Notion官方赠送了免费的team plan，到现在已经三年了。
 缘起·Blog 一直喜欢Notion的编辑风格，却一直没能妥当的使用起来。
 最近想到了搭建一个博客，在众多博客类型里挑花了眼。是在服务器搭一个nginx服务器，或者利用wordpress快速起模板，再或者用hugo来做静态网站。
