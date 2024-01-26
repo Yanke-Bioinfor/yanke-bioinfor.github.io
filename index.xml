@@ -47,7 +47,7 @@ Lists Unordered Item 1 Item 2 Item 2a Item 2b Ordered Item 1 Item 2 Item 3 Item 
 缘起·Blog 一直喜欢Notion的编辑风格，却一直没能妥当的使用起来。
 最近想到了搭建一个博客，在众多博客类型里挑花了眼。是在服务器搭一个nginx服务器，或者利用wordpress快速起模板，再或者用hugo来做静态网站。
 研究了半天，不管是自己搭框架做编辑器，还是写MarkDown，都不如Notion编辑器来的舒坦。所以重心就放在如果将Notion做成一个可以做个人主页的博客系统。
-Vercel + Notion 第一个主页性质的页面 (Curtis‘ Home Page 就诞生了，来自@heyalber设计的模板。
+Vercel + Notion 第一个主页性质的页面 Curtis‘ Home Page 就诞生了，来自@heyalber设计的模板。
 我有一个十年的域名biocat.top，遂希望能用自己的域名访问Notion的网址。经过一番调试，最终采用Vercel+notion的解决方案。
 Vercel 是一个云原生的全球部署平台，专注于静态网站和单页面应用程序的托管和部署。它提供了一个简单易用的平台，可以让开发者轻松地将其应用程序部署到全球各地的服务器上。
 Vercel 支持多种前端框架，包括 React、Vue、Angular、Next.js 等。它还提供了强大的功能，如自动缓存更新、预渲染、灰度发布等，以帮助开发者轻松管理和优化他们的应用程序。
