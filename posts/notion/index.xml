@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Curtis&#39; Home Page</title>
-    <link>https://yanke-bioinfor.github.io/</link>
-    <description>Recent content on Curtis&#39; Home Page</description>
+    <title>Notion文章 on Curtis&#39; Home Page</title>
+    <link>https://yanke-bioinfor.github.io/posts/notion/</link>
+    <description>Recent content in Notion文章 on Curtis&#39; Home Page</description>
     <image>
       <title>Curtis&#39; Home Page</title>
       <url>https://yanke-bioinfor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,33 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://yanke-bioinfor.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://yanke-bioinfor.github.io/posts/blog/new/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/posts/blog/new/</guid>
-      <description>Markdown syntax guide Headers This is a Heading h1 This is a Heading h2 This is a Heading h6 Emphasis This text will be italic
-This will also be italic
-This text will be bold
-This will also be bold
-You can combine them
-Lists Unordered Item 1 Item 2 Item 2a Item 2b Ordered Item 1 Item 2 Item 3 Item 3a Item 3b Images Links You may be using Markdown Live Preview.</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>https://yanke-bioinfor.github.io/posts/blog/test_page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/posts/blog/test_page/</guid>
-      <description>描述文字</description>
-    </item>
-    <item>
-      <title>你好世界</title>
-      <link>https://yanke-bioinfor.github.io/posts/blog/test_page2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/posts/blog/test_page2/</guid>
-      <description>描述文字</description>
-    </item>
+    <atom:link href="https://yanke-bioinfor.github.io/posts/notion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>创站记录</title>
       <link>https://yanke-bioinfor.github.io/posts/notion/build_web/</link>

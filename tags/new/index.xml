@@ -26,5 +26,28 @@
       <guid>https://yanke-bioinfor.github.io/posts/blog/test_page2/</guid>
       <description>描述文字</description>
     </item>
+    <item>
+      <title>创站记录</title>
+      <link>https://yanke-bioinfor.github.io/posts/notion/build_web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yanke-bioinfor.github.io/posts/notion/build_web/</guid>
+      <description>初见·Notion 从19年开始使用Notion，后来因为疫情缘故，组织了一些抗疫相关页面，Notion官方赠送了免费的team plan，到现在已经三年了。
+缘起·Blog 一直喜欢Notion的编辑风格，却一直没能妥当的使用起来。
+最近想到了搭建一个博客，在众多博客类型里挑花了眼。是在服务器搭一个nginx服务器，或者利用wordpress快速起模板，再或者用hugo来做静态网站。
+研究了半天，不管是自己搭框架做编辑器，还是写MarkDown，都不如Notion编辑器来的舒坦。所以重心就放在如果将Notion做成一个可以做个人主页的博客系统。
+Vercel + Notion 第一个主页性质的页面 (Curtis‘ Home Page 就诞生了，来自@heyalber设计的模板。
+我有一个十年的域名biocat.top，遂希望能用自己的域名访问Notion的网址。经过一番调试，最终采用Vercel+notion的解决方案。
+Vercel 是一个云原生的全球部署平台，专注于静态网站和单页面应用程序的托管和部署。它提供了一个简单易用的平台，可以让开发者轻松地将其应用程序部署到全球各地的服务器上。
+Vercel 支持多种前端框架，包括 React、Vue、Angular、Next.js 等。它还提供了强大的功能，如自动缓存更新、预渲染、灰度发布等，以帮助开发者轻松管理和优化他们的应用程序。
+Vercel 还与现代开发工具和流行的版本控制系统集成，例如 GitHub、GitLab 和 Bitbucket。这使得团队能够使用他们熟悉的工具进行协作和部署。
+总的来说，Vercel 是一个强大的部署平台，它简化了应用程序的部署过程，并提供了优秀的性能和全球范围的可扩展性。无论是个人开发者还是大型团队，都可以从 Vercel 提供的功能和便利性中受益。
+当时我还不知道Notion Team Plan提供了免费的主页域名，可以通过自定义的域名访问设定的主页，也就是现在liyanke.notion.site，同时也用Vercel搭建了一个网址https://notion.biocat.top/。
+如你所见，这两个页面的内容是一致的。我期望利用Notion的Database做一个集成的博客系统。目前，分类也还没有确定，但是可以预期会包含，知识库、生活随笔、突发奇想、追的番/剧、饮食记录。
+关于Vercel的操作部分，我已经忘记了，这就是没有随时记录的坏处，要不要重新整理下呢。还不知道。接下来就是Hugo + Github Pages + Actions自动化更新Hugo博客了
+Hugo + Github 对于内容创作来说，高质量的内容才是重中之重，无可奈何，自己还是写不出来高质量作品来，慢慢练习，增强书面和口语表达能力。尽管工具可能是其次的，多尝试下也能为以后坚持做铺垫。
+配置hugo Hugo可以在多平台部署，我拿的就是之前的centos服务器上运行了，Hugo创建静态网站还算简单。
+下载Hugo编译好的版本，甚至都不需要go环境。 wget https://github.com/gohugoio/hugo/releases/download/v0.121.1/hugo_0.121.1_Linux-64bit.tar.gz tar -zxvf hugo_0.121.1_Linux-64bit.tar.gz mv hugo /usr/bin/ 创建Hugo网站 hugo new site liyanke 配置Hugo模板 Hugo官网支持多种模板，Themes，我选择了Papermod，看起来比较清爽，重点是他支持直接展示个人详情页，非常适合当主页。
+cd liyanke git init git submodule add https://github.</description>
+    </item>
   </channel>
 </rss>
