@@ -14,16 +14,16 @@
     <atom:link href="https://yanke-bioinfor.github.io/tags/new/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://yanke-bioinfor.github.io/test_page/</link>
+      <link>https://yanke-bioinfor.github.io/posts/blog/test_page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/test_page/</guid>
+      <guid>https://yanke-bioinfor.github.io/posts/blog/test_page/</guid>
       <description>描述文字</description>
     </item>
     <item>
       <title>你好世界</title>
-      <link>https://yanke-bioinfor.github.io/test_page2/</link>
+      <link>https://yanke-bioinfor.github.io/posts/blog/test_page2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/test_page2/</guid>
+      <guid>https://yanke-bioinfor.github.io/posts/blog/test_page2/</guid>
       <description>描述文字</description>
     </item>
   </channel>

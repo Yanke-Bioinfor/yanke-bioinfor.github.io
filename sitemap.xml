@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yanke-bioinfor.github.io/new/</loc>
+    <loc>https://yanke-bioinfor.github.io/posts/blog/new/</loc>
   </url><url>
     <loc>https://yanke-bioinfor.github.io/categories/</loc>
   </url><url>
+    <loc>https://yanke-bioinfor.github.io/posts/</loc>
+  </url><url>
+    <loc>https://yanke-bioinfor.github.io/posts/blog/</loc>
+  </url><url>
     <loc>https://yanke-bioinfor.github.io/</loc>
   </url><url>
-    <loc>https://yanke-bioinfor.github.io/test_page/</loc>
+    <loc>https://yanke-bioinfor.github.io/posts/blog/test_page/</loc>
   </url><url>
     <loc>https://yanke-bioinfor.github.io/tags/new/</loc>
   </url><url>
     <loc>https://yanke-bioinfor.github.io/tags/</loc>
   </url><url>
-    <loc>https://yanke-bioinfor.github.io/test_page2/</loc>
+    <loc>https://yanke-bioinfor.github.io/posts/blog/test_page2/</loc>
   </url>
 </urlset>
