@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>new on Curtis&#39; Home Page</title>
-    <link>https://yanke-bioinfor.github.io/tags/new/</link>
+    <link>https://zzlyk.github.io/tags/new/</link>
     <description>Recent content in new on Curtis&#39; Home Page</description>
     <image>
       <title>Curtis&#39; Home Page</title>
-      <url>https://yanke-bioinfor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://yanke-bioinfor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://zzlyk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zzlyk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://yanke-bioinfor.github.io/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zzlyk.github.io/tags/new/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://yanke-bioinfor.github.io/posts/blog/test_page/</link>
+      <link>https://zzlyk.github.io/posts/blog/test_page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/posts/blog/test_page/</guid>
+      <guid>https://zzlyk.github.io/posts/blog/test_page/</guid>
       <description>描述文字</description>
     </item>
     <item>
       <title>你好世界</title>
-      <link>https://yanke-bioinfor.github.io/posts/blog/test_page2/</link>
+      <link>https://zzlyk.github.io/posts/blog/test_page2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/posts/blog/test_page2/</guid>
+      <guid>https://zzlyk.github.io/posts/blog/test_page2/</guid>
       <description>描述文字</description>
     </item>
     <item>
       <title>创站记录</title>
-      <link>https://yanke-bioinfor.github.io/notion/build_web/</link>
+      <link>https://zzlyk.github.io/notion/build_web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/notion/build_web/</guid>
+      <guid>https://zzlyk.github.io/notion/build_web/</guid>
       <description>初见·Notion 从19年开始使用Notion，后来因为疫情缘故，组织了一些抗疫相关页面，Notion官方赠送了免费的team plan，到现在已经三年了。
 缘起·Blog 一直喜欢Notion的编辑风格，却一直没能妥当的使用起来。
 最近想到了搭建一个博客，在众多博客类型里挑花了眼。是在服务器搭一个nginx服务器，或者利用wordpress快速起模板，再或者用hugo来做静态网站。
